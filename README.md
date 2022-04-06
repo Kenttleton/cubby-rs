@@ -1,2 +1,2 @@
 # cubby-rs
-A Rust Library with useful junk in it
+A Rust library with useful junk in it. See collection READMEs for individual uses and features. 
